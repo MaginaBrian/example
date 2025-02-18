@@ -1,9 +1,21 @@
 *{
     color : red;
+    text-align: center;
 }
 h1{
     color :blue;
 }
 h3{
-    color :brown;
+    color :green;
+}
+
+img{
+    height :100px;
+    width : 100px;
+    border-radius: 50%;
+}
+ul>li,ol>li{
+
+    color : black ;
+
 }
